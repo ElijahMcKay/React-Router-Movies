@@ -20,7 +20,7 @@ Topics:
   ![Movies Home](https://ibin.co/3xhmmHVl9BKF.png)
 
 ### Part 1:
-
+ 
 * Wrap your app with the router.
 * Inside your App file add two routes.
   * one route for `/` that loads the `MovieList` component.
