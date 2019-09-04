@@ -20,7 +20,7 @@ Topics:
   ![Movies Home](https://ibin.co/3xhmmHVl9BKF.png)
 
 ### Part 1:
-
+ 
 * Wrap your app with the router.
 * Inside your App file add two routes.
   * one route for `/` that loads the `MovieList` component.
@@ -34,7 +34,7 @@ Topics:
 * Add functionality so the `Home` button on the `SavedList` component navigates back to home.
 * You should now be able to navigate back and forth between the individual movies and the home screen.
 
-## Stretch Goals.
+## Stretch Goals. 
 
 If you have completed Parts 1 & 2 feel free to move on to these stretch goals.
 
